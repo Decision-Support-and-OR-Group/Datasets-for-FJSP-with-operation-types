@@ -17,7 +17,7 @@ The src/ directory contains random datasets generator, which can be downloaded, 
 ### Open a terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/tsliwins/Datasets-for-FJSP-with-operation-types.git
+git clone https://github.com/Decision-Support-and-OR-Group/Datasets-for-FJSP-with-operation-types.git
 cd Datasets-for-FJSP-with-operation-types/src
 mkdir build
 cd build
