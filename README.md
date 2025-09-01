@@ -11,9 +11,7 @@ The src/ directory contains random datasets generator, which can be downloaded, 
 ## Prerequisites
 
 - Git (for cloning the repository)
-- 
 - CMake (version 3.20 or higher)
-- 
 - A C++ compiler (e.g., GCC (c++20 was used, Clang, or MSVC)
 
 # Open a terminal or command prompt and run:
