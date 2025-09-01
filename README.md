@@ -30,7 +30,8 @@ cmake ..
 
 make
 
-# To run the generator type (warning: as fjsp_gen generates several million data files (1mln for each problem size), it will require 40GB of free disk space or possibly more to generate all the files):
+# To run the generator type
+Warning: as fjsp_gen generates several million data files (1mln for each problem size), it will require 40GB of free disk space or possibly more to generate all the files):
 
 ./fjsp_gen
 
